@@ -15,5 +15,4 @@ This repo is an example of mobile robot  localisation by using probabilty map.
       You can get pygame-1.9.3-cp35-cp35m-win32.whl on http://www.lfd.uci.edu/~gohlke/pythonlibs/ 
     
 # 3- Unzip Robotics
-
-# 4- Python Robot.py
+      Python Robot.py
