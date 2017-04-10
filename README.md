@@ -16,3 +16,13 @@ This repo is an example of mobile robot  localisation by using probabilty map.
     
 # 3- Unzip Robotics
       Python Robot.py
+### Screenshot
+
+* Enable : rt.display_robot()
+<img src=https://raw.githubusercontent.com/btrice/Robotics/master/diplay_robot.PNG >
+
+* Enable : rt.display_probability_map(p)
+<img src=https://raw.githubusercontent.com/btrice/Robotics/master/loca_1.PNG >
+<img src=https://raw.githubusercontent.com/btrice/Robotics/master/loca_2.PNG >
+
+
