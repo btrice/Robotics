@@ -23,6 +23,7 @@ This repo is an example of mobile robot  localisation by using probabilty map.
 
 * Enable : rt.display_probability_map(p)
 <img src=https://raw.githubusercontent.com/btrice/Robotics/master/loca_1.PNG >
-<img src=https://raw.githubusercontent.com/btrice/Robotics/master/loca_2.PNG >
+<img src=https://raw.githubusercontent.com/btrice/Robotics/master/loca_2.PNG > 
+<img src=https://raw.githubusercontent.com/btrice/Robotics/master/localised.PNG >
 
 
